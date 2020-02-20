@@ -107,7 +107,8 @@
     border-top: 22px solid #fff;
     border-left: 22px solid transparent;
     bottom: -22px;
-    right: 60px; }
+    right: 60px;
+    z-index: 2; }
 
 .slider__wrp {
   position: relative;
